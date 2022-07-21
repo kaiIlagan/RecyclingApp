@@ -1,9 +1,9 @@
-package com.example.recyclingapp
+package com.example.recyclingapp.util
 
 import android.Manifest
 import android.content.Context
 import androidx.fragment.app.Fragment
-import com.example.recyclingapp.Constants.PERMISSION_LOCATION_REQUEST_CODE
+import com.example.recyclingapp.util.Constants.PERMISSION_LOCATION_REQUEST_CODE
 import com.vmadalin.easypermissions.EasyPermissions
 
 object Permissions {

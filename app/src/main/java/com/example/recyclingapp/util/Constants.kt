@@ -1,4 +1,4 @@
-package com.example.recyclingapp
+package com.example.recyclingapp.util
 
 object Constants {
 
